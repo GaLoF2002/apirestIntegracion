@@ -1,3 +1,9 @@
+# Mirar el video del funiconamiento aqui 
+https://www.loom.com/share/68b574f4175d4380b48e8eed49e959f7?sid=94579444-d604-4370-b12b-088b672787bc
+
+
+
+
 # API REST Integración Hotel Service
 
 Este es un proyecto de una API REST para la gestión de reservas en un servicio de hotel. Permite realizar reservas, verificar disponibilidad de habitaciones, y más.
